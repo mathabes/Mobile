@@ -1,0 +1,14 @@
+
+X
+java:S1854."=Remove this useless assignment to local variable "appChoice".(¾ÐŽïùÿÿÿÿ
+I
+java:S1481.".Remove this unused "appChoice" local variable.(¾ÐŽïùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(õ®Õ›
+4
+java:S21193"Save and re-use this "Random".(óÇÎµ
+c
+java:S1871;"HThis case's code block is the same as the block for the case on line 55.(ãª€¦ÿÿÿÿÿ
+^
+java:S18719"HThis case's code block is the same as the block for the case on line 55.(ÂÓŸ°
+<	java:S1316""Add a default case to this switch.(ƒÊâÜýÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(‰ìÎþ
