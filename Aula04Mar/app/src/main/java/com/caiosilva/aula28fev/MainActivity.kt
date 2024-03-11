@@ -14,5 +14,18 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        showFragments()
+    }
+
+    private fun showFragments() {
+        supportFragmentManager
+            .beginTransaction()
+            .replace(binding.frameLayoutPrimeiroFragment.id, PrimeiroFragment())
+            .commit()
+
+        supportFragmentManager
+            .beginTransaction()
+            .replace(binding.frameLayoutSegundoFragment.id, SegundoFragment())
+            .commit()
     }
 }
