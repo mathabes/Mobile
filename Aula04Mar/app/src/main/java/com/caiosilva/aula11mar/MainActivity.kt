@@ -1,10 +1,8 @@
-package com.caiosilva.aula28fev
+package com.caiosilva.aula11mar
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.os.bundleOf
-import com.caiosilva.aula28fev.databinding.ActivityMainBinding
+import com.caiosilva.aula11mar.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

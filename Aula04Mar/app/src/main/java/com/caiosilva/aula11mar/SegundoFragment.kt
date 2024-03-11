@@ -1,11 +1,11 @@
-package com.caiosilva.aula28fev
+package com.caiosilva.aula11mar
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.caiosilva.aula28fev.databinding.FragmentSegundoBinding
+import com.caiosilva.aula11mar.databinding.FragmentSegundoBinding
 
 class SegundoFragment: Fragment() {
 
